@@ -1,0 +1,39 @@
+.header{
+height: 300px;
+/* background-image: url(grandma.jpg); */
+/* background-image: url("../strong.jpg"); */
+background-image: url("../Images/developer.jpg");
+/* background-repeat: no-repeat; */
+/* background-repeat: repeat-x; */
+/* background-repeat: repeat-y; */
+/* background-size: cover; */ */
+/* background-size: contain; */
+ /* background-size: 500px;  */
+}
+h3{
+ font-size: 50px;
+ text-decoration: overline;
+ font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+
+  margin: 30px;
+ border: 20px solid tomato;
+ box-shadow: 10px 10px 10px blue;
+}
+
+.second{
+  /* display: none; */
+ /* visibility: hidden; */ */
+}
+.laudantiumquib{
+ border: 2px solid purple;
+margin: 30px;
+display: inline-block;
+display: inline;
+}
+.dolor{
+  border: 3px solid peru;
+  height: 50px;
+  display: block;
+}
